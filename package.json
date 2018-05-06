@@ -1,0 +1,19 @@
+{
+  "name": "learning-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfgonzalez/learning-jasmine.git"
+  },
+  "author": "Marcelo Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfgonzalez/learning-jasmine/issues"
+  },
+  "homepage": "https://github.com/mfgonzalez/learning-jasmine#readme"
+}
